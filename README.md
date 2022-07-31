@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started, to open the application follow the link below, the app is hosted on heroku
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://reminderjsonapp.herokuapp.com/).
 
 ## Available Scripts
 
