@@ -4,6 +4,7 @@ import Button from './Button'
 const Header = ({title, onAdd, showAdd}) => {
 
   return (
+    
     <div>
       <header className='header'>
         <h1>{title}</h1>
