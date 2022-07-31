@@ -54,7 +54,7 @@ run the server on your terminal by running npm run server. On a new terminal run
 
 ## blog Link
 
-To read more about the blog visit [Blog site](https://reminderjsonapp.herokuapp.com/).
+To read more about the blog visit [Blog site](https://harry74.hashnode.dev/reminder-app-with-react-and-json-server).
 
 
 
