@@ -1,6 +1,6 @@
 # Getting Started, to open the application follow the link below, the app is hosted on heroku
 
-Click the link to interact with the app [ReminderApp](https://reminderjsonapp.herokuapp.com/).
+Click the link to interact with the app [ReminderApp](https://reminderjsonapp.herokuapp.com/)
 
 ## Build environment
 
